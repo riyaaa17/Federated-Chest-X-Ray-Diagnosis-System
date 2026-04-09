@@ -11,14 +11,13 @@ python-multipart==0.0.22
 
 # --- ML / Computer Vision ---
 tensorflow==2.16.1
-
 tensorflow-io-gcs-filesystem==0.31.0
-keras==3.14.0
+keras==3.3.3
 numpy==1.26.4
-opencv-python==4.13.0.92
-pillow==12.2.0
-scikit-learn==1.8.0
-scipy==1.17.1
+opencv-python-headless==4.10.0.84
+pillow==10.4.0
+scikit-learn==1.4.2
+scipy==1.11.4
 
 # --- RAG Pipeline ---
 langchain==0.3.26
