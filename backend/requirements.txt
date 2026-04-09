@@ -11,7 +11,7 @@ python-multipart==0.0.22
 
 # --- ML / Computer Vision ---
 tensorflow==2.16.1
-tensorflow-intel==2.16.1
+
 tensorflow-io-gcs-filesystem==0.31.0
 keras==3.14.0
 numpy==1.26.4
